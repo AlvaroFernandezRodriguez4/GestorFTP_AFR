@@ -55,6 +55,9 @@ La clase `AESSimpleManager` proporciona las funciones de cifrado y descifrado ut
 - **Contraseña de cifrado**: `NoMeLlamoSpidermanMeLlamoSpidermanMeLlamoSpiderman`
 - **Longitud de bloque**: `32 bytes`
 
+### Defensa
+(https://youtu.be/2YMUqzUwRqI)
+
 ## Ejecución
 
 ### GestorFTP
